@@ -1,0 +1,18 @@
+# GlassBox-Agent root .gitignore
+node_modules/
+dist/
+.vite/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+venv/
+.venv/
+*.sqlite3
+*.db
